@@ -1,3 +1,5 @@
+# Dog Breed Classification
+
 ## Libraries Used
 This project used OpenCV, PyTorch, and Numpy/Pandas as the main Python libraries. The attached jupyter notebook can be used to step through the project.
 
